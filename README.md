@@ -14,9 +14,9 @@ The Atom Robot is a competitive robot designed for Robocode, created for a class
 ## How to Run
 
 1. **Install Robocode**: Ensure you have Robocode installed on your system.
-2. **Download Atom**: Obtain the `Atom.jar` file and the source code for the `Atom` and `LogisticRegression` classes from the repository.
+2. **Download Atom**: Obtain the `Atom.Atom_1.0.jar` file.
 3. **Import to Robocode**:
     - Open Robocode.
     - Navigate to `Robot -> Import Robot or Team`.
-    - Select the `Atom.jar` file from the directory where you downloaded it.
+    - Select the `Atom.Atom_1.0.jar` file from the directory where you downloaded it.
 4. **Start a Battle**: Open Robocode, select Atom as your robot, and start a battle.
